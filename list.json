@@ -15,6 +15,7 @@
 		"graphics",
 		"2d"
 	],
+	"icon_url": "https://github.com/cthangover/mods-live2d/blob/master/mod.png?raw=true",
 	"locale": [
 		{
 			"lang":"en",
@@ -34,7 +35,7 @@
 		{
 		"version": "1.0.0",
 		"urls": [
-			"https://github.com/cthangover/mods-live2d/releases/download/download/live2d.zip"
+			"https://github.com/cthangover/mods-live2d/releases/download/mod/live2d-v1.0.0.zip"
 		],
 		"size_bytes": 1831899,
 		"archive_sha256": "075a3f582919b26b39afc1fd66d1e4a91cab0e521d6ca36f746c248e1ee82c9a",
